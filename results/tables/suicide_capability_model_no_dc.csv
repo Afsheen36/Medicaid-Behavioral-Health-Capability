@@ -1,0 +1,5 @@
+,coefficient,robust_se,p_value,ci_lower,ci_upper
+const,84.359,36.761,0.022,12.308,156.41
+psychiatrists_per_100k,-0.297,0.373,0.426,-1.028,0.434
+poverty_rate,0.473,1.251,0.705,-1.978,2.925
+median_household_income,-1.747,3.158,0.58,-7.936,4.442
