@@ -129,3 +129,34 @@ analysis_df.to_csv(OUTPUT_PATH, index=False)
 
 print(f"\nSaved analysis dataset to:")
 print(OUTPUT_PATH)
+
+# --------------------------------------------------
+# Search for geographic variables
+# --------------------------------------------------
+
+geo_terms = [
+    "COUNTY",
+    "FIPS",
+    "ZIP",
+    "CITY",
+    "STATE",
+    "REGION",
+    "METRO",
+    "RURAL",
+    "URBAN"
+]
+
+print("\nGEOGRAPHIC VARIABLE SEARCH")
+print("-" * 50)
+
+for term in geo_terms:
+    matches = [
+        column
+        for column in df.columns
+        if term in column.upper()
+    ]
+
+    print(f"\n{term}: {len(matches)} matches")
+
+    for column in matches:
+        print(f"  {column}")
