@@ -178,8 +178,8 @@ The adjusted association was therefore imprecisely estimated.
 Across states with usable CMS Medicaid enrollment denominators, the median
 values were:
 
-- **90.0%** of mental health facilities accepting Medicaid
-- **20.65** Medicaid-accepting mental health facilities per 100,000 Medicaid
+- **90.5%** of mental health facilities accepting Medicaid
+- **20.66** Medicaid-accepting mental health facilities per 100,000 Medicaid
   enrollees
 
 Arizona had:

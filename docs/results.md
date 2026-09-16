@@ -181,8 +181,8 @@ Medicaid enrollees.
 
 Across states with usable enrollment denominators, the median values were:
 
-- **90.0%** of mental health facilities accepting Medicaid
-- **20.65 Medicaid-accepting facilities per 100,000 Medicaid enrollees**
+- **90.5%** of mental health facilities accepting Medicaid
+- **20.66 Medicaid-accepting facilities per 100,000 Medicaid enrollees**
 
 These measures describe different dimensions of the behavioral health
 system.
