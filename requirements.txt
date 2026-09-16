@@ -1,0 +1,7 @@
+pandas
+matplotlib
+scipy
+statsmodels
+requests
+python-dotenv
+openpyxl
